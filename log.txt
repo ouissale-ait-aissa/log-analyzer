@@ -1,0 +1,5 @@
+INFO D‚marrage 
+WARNING M‚moire faible 
+ERROR Connexion ‚chou‚e 
+INFO Traitement termin‚ 
+ERROR Timeout 
