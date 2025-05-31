@@ -1,6 +1,6 @@
 # Log-Analyzer CLI
 
-**Auteur:** Votre Nom
+**Auteur:** AIT AISSA OUISSALE
 
 ## Description
 
